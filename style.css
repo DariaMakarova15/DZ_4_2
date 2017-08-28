@@ -14,7 +14,7 @@ img {
 	height: 200px;
 }
 
-.square {
+.board div:nth-child(odd) {
 	background: #6d0000;
 }
 .square-white {
